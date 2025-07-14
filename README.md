@@ -6,3 +6,6 @@ While most of my work remains private, I occasionally share proof-of-concepts (P
 Think of these contributions as starting points for a more complete usage case.
 
 If you find value in my work and use it as inspiration, I’d appreciate a credit.
+
+
+<a href="https://theguywhoyousaw.github.io/">Blog</a>
