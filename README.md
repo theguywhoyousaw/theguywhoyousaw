@@ -2,10 +2,10 @@
 
 I’m a reverse engineer focused on low-level systems and software internals.
 
-While most of my work remains private, I occasionally share proof-of-concepts (PoCs) designed to spark curiosity and inspire others to build upon them.
-Think of these contributions as starting points for a more complete usage case.
+While most of my work remains private, I occasionally share proof-of-concepts (PoCs) designed to inspire creative work.
+These contributions are typically starting points for a more complete usage case.
 
-If you find value in my work and use it as inspiration, I’d appreciate a credit.
+Credit me if you use my work.
 
 
 <a href="https://theguywhoyousaw.github.io/">Blog</a>
